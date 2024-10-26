@@ -1,2 +1,2 @@
 # HTB-Superfast
-writeup exploit for the superfast challenge
+For the full writeup for the superfast challenge: 
