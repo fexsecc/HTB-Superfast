@@ -1,2 +1,2 @@
 # HTB-Superfast
-For the full writeup for the superfast challenge: 
+For the [full writeup](https://fexsec.net/hackthebox/superfast)
